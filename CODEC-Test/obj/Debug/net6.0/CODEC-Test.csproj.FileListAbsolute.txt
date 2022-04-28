@@ -1,0 +1,15 @@
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\bin\Debug\net6.0\CODEC-Test.exe
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\bin\Debug\net6.0\CODEC-Test.deps.json
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\bin\Debug\net6.0\CODEC-Test.runtimeconfig.json
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\bin\Debug\net6.0\CODEC-Test.dll
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\bin\Debug\net6.0\CODEC-Test.pdb
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.csproj.AssemblyReference.cache
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.AssemblyInfoInputs.cache
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.AssemblyInfo.cs
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.csproj.CoreCompileInputs.cache
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.dll
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\refint\CODEC-Test.dll
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.pdb
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\CODEC-Test.genruntimeconfig.cache
+C:\Users\gui_t\source\repos\CODEC-Test\CODEC-Test\obj\Debug\net6.0\ref\CODEC-Test.dll
