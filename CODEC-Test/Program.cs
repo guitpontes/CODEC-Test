@@ -7,6 +7,7 @@ while(keepGoing != 'N')
     Console.WriteLine("Insert the grid config. EG. 5x5, 3x4, 4x4, etc:");
     var gridConfig = Console.ReadLine().ToUpper();
 
+    Console.WriteLine("The command config should be -- L: Turn the robot left R: Turn the robot right F: Move forward on it's facing direction. E.G. LFLRFLFF");
     Console.WriteLine("Insert command: ");
     var commandLine = Console.ReadLine().ToUpper();
 
